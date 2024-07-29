@@ -41,7 +41,7 @@ I am a passionate data scientist with a strong foundation in data analysis, stat
 - **Tools Used**: Python, SQL
 - **Description**: Cleaned and transformed a large dataset from a real-world scenario. Addressed missing values, outliers, and performed feature engineering for analysis.
 
-### [Project 4: Database Management](https://github.com/yourusername/project4)
+### [Project 4: Database Management](https://github.com/QuillAndroz/ChinookSalesAnalysis/blob/main/ChinookSalesAnalysis.ipynb)
 - **Tools Used**: MySQL
 - **Description**: Designed and managed a relational database for an e-commerce platform. Created efficient queries to extract and analyze data for business insights.
 
