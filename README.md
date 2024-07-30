@@ -43,7 +43,7 @@ I am a passionate data scientist with a foundation in data analysis, statistical
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/andres-zapata-saad) or [email](mailto:andres.zapata.saad@gmail.com) for any inquiries or collaborations.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/andres-zapata-saad) or [email](mailto:andres.zapata.saad@gmail.com) for any inquiries or collaborations.
 
 Thank you for visiting my portfolio!
 
