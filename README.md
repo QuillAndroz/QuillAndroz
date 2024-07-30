@@ -4,20 +4,20 @@ Welcome to my Data Science Portfolio! This repository showcases my expertise and
 
 ## About Me
 
-I am a passionate data scientist with a strong foundation in data analysis, statistical modeling, and database management. My goal is to extract meaningful insights from data and solve complex problems using advanced analytical techniques.
+I am a passionate data scientist with a foundation in data analysis, statistical modeling, and database management. My goal is to extract meaningful insights from data and solve complex problems using analytical techniques.
 
 ## Skills
 
 ### Data Analysis Tools
 - **Excel**: Proficient in data analysis, visualization, and advanced functions.
 - **Python**: Skilled in data manipulation, analysis, and visualization using libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
-- **R**: Experienced in statistical analysis, data manipulation, and visualization with packages like ggplot2, dplyr, and tidyr.
+- **R**: Experienced in statistical analysis, data manipulation, and visualization.
 - **SQL**: Competent in querying, managing, and manipulating databases.
 
 ### Statistical Analysis
-- **Regression Analysis**: Expertise in linear and logistic regression for predictive modeling.
+- **Regression Analysis**: Expertise in linear regression for predictive modeling.
 - **Hypothesis Testing**: Skilled in conducting various hypothesis tests to infer statistical significance.
-- **Predictive Modeling**: Proficient in building and evaluating predictive models using machine learning techniques.
+- **Predictive Modeling**: Proficient in building and evaluating predictive models using basic machine learning techniques.
 
 ### Data Manipulation
 - **Data Cleaning**: Experienced in handling missing values, outliers, and data inconsistencies.
@@ -25,29 +25,25 @@ I am a passionate data scientist with a strong foundation in data analysis, stat
 - **Data Visualization**: Proficient in creating insightful and interactive visualizations to communicate findings.
 
 ### Database Management
-- **MySQL**: Experienced in designing, querying, and managing relational databases.
+- **SQLite**: Experienced in designing, querying, and managing relational databases.
 
 ## Projects
 
-### [Project 1: Sales Analysis](https://github.com/yourusername/project1)
-- **Tools Used**: Excel, Python
-- **Description**: Analyzed sales data to identify trends, patterns, and key performance indicators. Created interactive dashboards for data visualization.
+### [Project 1: Descriptive and inferential statistics]()
+- **Tools Used**: Python
+- **Description**: Analyzed experimental data for an agglomeration process. Predictive model using basic machine learning to determine the water lost in a heating process. Analysis of variance to assess the statistical significance of pellet production parameters. 
 
-### [Project 2: Predictive Modeling](https://github.com/yourusername/project2)
-- **Tools Used**: R, Python
-- **Description**: Developed predictive models to forecast customer churn. Implemented logistic regression and decision tree models to improve prediction accuracy.
-
-### [Project 3: Data Cleaning and Transformation](https://github.com/yourusername/project3)
-- **Tools Used**: Python, SQL
+### [Project 2: Data Cleaning, Transformation and Visualization]()
+- **Tools Used**: Python
 - **Description**: Cleaned and transformed a large dataset from a real-world scenario. Addressed missing values, outliers, and performed feature engineering for analysis.
 
-### [Project 4: Database Management](https://github.com/QuillAndroz/ChinookSalesAnalysis/blob/main/ChinookSalesAnalysis.ipynb)
-- **Tools Used**: MySQL
-- **Description**: Designed and managed a relational database for an e-commerce platform. Created efficient queries to extract and analyze data for business insights.
+### [Project 3: Database Management](https://github.com/QuillAndroz/ChinookSalesAnalysis/blob/main/ChinookSalesAnalysis.ipynb)
+- **Tools Used**: SQL
+- **Description**: Managed a relational database for an e-commerce platform. Created efficient queries to extract and analyze data for business insights.
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourusername/) or [email](mailto:youremail@example.com) for any inquiries or collaborations.
+Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/andres-zapata-saad) or [email](mailto:andres.zapata.saad@gmail.com) for any inquiries or collaborations.
 
 Thank you for visiting my portfolio!
 
