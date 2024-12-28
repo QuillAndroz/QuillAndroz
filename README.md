@@ -33,7 +33,7 @@ I am a passionate data scientist with a foundation in data analysis, statistical
 - **Tools Used**: Python
 - **Description**: Analyzed experimental data for an agglomeration process. A predictive model is used to determine the water lost in a heating process. Analysis of variance to assess the statistical significance of pellet production parameters. 
 
-### [Project 2: Data Cleaning, Transformation and Visualization]()
+### [Project 2: Data Cleaning, Transformation and Visualization](https://github.com/QuillAndroz/Vehicle_Exploration/blob/main/Vehicle_Exploration.ipynb)
 - **Tools Used**: Python
 - **Description**: Cleaned and transformed a large dataset from a real-world scenario. Addressed missing values, outliers, and performed feature engineering for analysis.
 
