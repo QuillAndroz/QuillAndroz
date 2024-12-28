@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio! This repository showcases my expertise and
 
 ## About Me
 
-I am a passionate data scientist with a foundation in data analysis, statistical modeling, and database management. My goal is to extract meaningful insights from data and solve complex problems using analytical techniques.
+I am a passionate data scientist with a foundation in data analysis, statistical modeling, and database management. I aim to extract meaningful insights from data and solve complex problems using analytical techniques.
 
 ## Skills
 
@@ -17,7 +17,7 @@ I am a passionate data scientist with a foundation in data analysis, statistical
 ### Statistical Analysis
 - **Regression Analysis**: Expertise in linear regression for predictive modeling.
 - **Hypothesis Testing**: Skilled in conducting various hypothesis tests to infer statistical significance.
-- **Predictive Modeling**: Proficient in building and evaluating predictive models using basic machine learning techniques.
+- **Predictive Modeling**: Proficient in building and evaluating predictive models.
 
 ### Data Manipulation
 - **Data Cleaning**: Experienced in handling missing values, outliers, and data inconsistencies.
@@ -31,7 +31,7 @@ I am a passionate data scientist with a foundation in data analysis, statistical
 
 ### [Project 1: Descriptive and inferential statistics]()
 - **Tools Used**: Python
-- **Description**: Analyzed experimental data for an agglomeration process. Predictive model using basic machine learning to determine the water lost in a heating process. Analysis of variance to assess the statistical significance of pellet production parameters. 
+- **Description**: Analyzed experimental data for an agglomeration process. A predictive model is used to determine the water lost in a heating process. Analysis of variance to assess the statistical significance of pellet production parameters. 
 
 ### [Project 2: Data Cleaning, Transformation and Visualization]()
 - **Tools Used**: Python
