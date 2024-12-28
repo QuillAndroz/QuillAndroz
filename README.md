@@ -29,7 +29,7 @@ I am a passionate data scientist with a foundation in data analysis, statistical
 
 ## Projects
 
-### [Project 1: Descriptive and inferential statistics]()
+### [Project 1: Descriptive and inferential statistics](https://github.com/QuillAndroz/Pellet_pressure_analysis/blob/main/PelletPressureAnalysis.ipynb)
 - **Tools Used**: Python
 - **Description**: Analyzed experimental data for an agglomeration process. A predictive model is used to determine the water lost in a heating process. Analysis of variance to assess the statistical significance of pellet production parameters. 
 
